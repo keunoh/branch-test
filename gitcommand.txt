@@ -1,3 +1,0 @@
-git log 
-git log --graph : 현재 브랜치 히스토리
-git log --graph --all : 모든 브랜치 히스토리
